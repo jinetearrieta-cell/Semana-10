@@ -1,0 +1,12 @@
+Aquí tienes una versión diferente y parafraseada:
+
+Evento: Se registra una nueva incidencia en la plataforma.
+
+Acción: Enviar una notificación automática al canal de Telegram asignado.
+
+Mensaje: "Se ha recibido un nuevo reporte comunitario. 
+Ingrese al sistema para revisarlo y darle seguimiento."
+
+información que no debe compartirse: No incluir datos personales ni información confidencial, 
+como nombres y apellidos, números de identificación, direcciones, teléfonos, contraseñas o 
+cualquier otro dato sensible.

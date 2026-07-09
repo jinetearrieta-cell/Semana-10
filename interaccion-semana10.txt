@@ -1,0 +1,17 @@
+1: ¿que tareas del backlog harias primero?
+Implementar la función para que el ciudadano pueda registrar una incidencia con descripción y evidencia.
+Implementar la función para que el líder comunitario pueda revisar y gestionar los reportes.
+
+2: ¿por que son los mas importante?
+Porque estas dos tareas permiten que la plataforma cumpla su objetivo principal: recibir los reportes 
+de la comunidad y darles seguimiento. Sin ellas, las demás funciones no tendrían utilidad.
+
+3: ¿Qué significa para ti que una tarea esté “terminada”?
+Significa que la historia de usuario se completó, cumple con lo solicitado y está lista
+para que los usuarios la utilicen.
+
+4: Defincion de terminado 
+
+La funcionalidad cumple con la historia de usuario.
+Fue probada y funciona correctamente sin errores.
+El código quedó registrado en Git con su respectivo commit.
